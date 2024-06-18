@@ -1,0 +1,1603 @@
+{
+  "users": [
+    {},
+    {
+      "id": "87ad",
+      "username": "John",
+      "password": "a"
+    },
+    {
+      "username": "sha",
+      "password": "123",
+      "id": "IE8E1dR"
+    }
+  ],
+  "houses": [
+    {
+      "id": "22eq4",
+      "estate": "Buruburu",
+      "house_name": "Green Haven Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 25000,
+      "deposit": 25000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://github.com/NB-Kamoni/Images/blob/main/apartment1.jpg?raw=true",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "4r67t",
+      "estate": "Bahati",
+      "house_name": "Sunrise Apartments",
+      "type": "One Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "98hy6",
+      "estate": "Dagoretti",
+      "house_name": "Golden Towers",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 30000,
+      "deposit": 30000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67po9",
+      "estate": "Dandora",
+      "house_name": "Evergreen Apartments",
+      "type": "Bedsitter",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 8000,
+      "deposit": 8000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23plk",
+      "estate": "Doonholm",
+      "house_name": "Serenity Apartments",
+      "type": "Single",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 6000,
+      "deposit": 6000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12mn8",
+      "estate": "Eastleigh",
+      "house_name": "Sunset Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "87uh2",
+      "estate": "Embakasi",
+      "house_name": "Greenview Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://github.com/NB-Kamoni/Images/blob/main/apartment1.jpg?raw=true",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56kj7",
+      "estate": "Embakasi Pipeline",
+      "house_name": "Riverside Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 18000,
+      "deposit": 18000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "09fg8",
+      "estate": "Gatwekera",
+      "house_name": "Valley View Apartments",
+      "type": "One Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 12000,
+      "deposit": 12000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "34we5",
+      "estate": "Gigiri",
+      "house_name": "Hilltop Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 29000,
+      "deposit": 29000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45gh3",
+      "estate": "Githurai",
+      "house_name": "Golden View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 20000,
+      "deposit": 20000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67rt5",
+      "estate": "Highridge",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 27000,
+      "deposit": 27000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12gf7",
+      "estate": "Hurlingham",
+      "house_name": "Elite Apartments",
+      "type": "One Bedroom",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 14000,
+      "deposit": 14000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "98hb2",
+      "estate": "Huruma",
+      "house_name": "Sunrise Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "34fg9",
+      "estate": "Imara Daima",
+      "house_name": "Green Park Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "89cv3",
+      "estate": "Jericho",
+      "house_name": "Riverside Apartments",
+      "type": "Bedsitter",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 8000,
+      "deposit": 8000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56sd4",
+      "estate": "Kangemi",
+      "house_name": "Hill View Apartments",
+      "type": "One Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 12000,
+      "deposit": 12000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78df5",
+      "estate": "Karen",
+      "house_name": "Sunset View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 19000,
+      "deposit": 19000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23ty6",
+      "estate": "Kariobangi",
+      "house_name": "Valley Homes",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56hf4",
+      "estate": "Kasarani",
+      "house_name": "Green Haven Apartments",
+      "type": "Single",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 15000,
+      "deposit": 15000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78df1",
+      "estate": "Kawangware",
+      "house_name": "Hill View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 20000,
+      "deposit": 20000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23ty8",
+      "estate": "Kayole",
+      "house_name": "Valley Homes",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 27000,
+      "deposit": 27000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56hf9",
+      "estate": "Kiambiu",
+      "house_name": "Green Haven Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45lk2",
+      "estate": "Kibera",
+      "house_name": "City View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 18000,
+      "deposit": 18000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67bv9",
+      "estate": "Kichinjio",
+      "house_name": "Serenity Apartments",
+      "type": "Single",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 6000,
+      "deposit": 6000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23cc4",
+      "estate": "Kileleshwa",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78gf2",
+      "estate": "Kisumu Ndogo",
+      "house_name": "Sunrise Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 21000,
+      "deposit": 21000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "09bv5",
+      "estate": "Kitisuru",
+      "house_name": "Green Park Apartments",
+      "type": "Single",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 15000,
+      "deposit": 15000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "34iu8",
+      "estate": "Komarock",
+      "house_name": "Hill View Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 9000,
+      "deposit": 9000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56op7",
+      "estate": "Korogocho",
+      "house_name": "Valley Homes",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 26000,
+      "deposit": 26000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23ui9",
+      "estate": "Kware",
+      "house_name": "Sunrise Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78bn3",
+      "estate": "Kyuna",
+      "house_name": "Valley View Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12lp5",
+      "estate": "Laini Saba",
+      "house_name": "Green Park Apartments",
+      "type": "Single",
+      "water_source": "Kanjo",
+      "management": "Agency",
+      "rent": 15000,
+      "deposit": 15000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67jk8",
+      "estate": "Lang'ata",
+      "house_name": "Serenity Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45fg2",
+      "estate": "Lavington",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "90jk1",
+      "estate": "Lindi",
+      "house_name": "Sunset View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 19000,
+      "deposit": 19000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "34hb6",
+      "estate": "Loresho",
+      "house_name": "Green Haven Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 11000,
+      "deposit": 11000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23po9",
+      "estate": "Lucky Summer",
+      "house_name": "Valley Homes",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 27000,
+      "deposit": 27000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67gf3",
+      "estate": "Madaraka Estate",
+      "house_name": "Sunrise Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12ty7",
+      "estate": "Majengo",
+      "house_name": "Valley View Apartments",
+      "type": "Single",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 16000,
+      "deposit": 16000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45bg3",
+      "estate": "Makadara",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 21000,
+      "deposit": 21000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78nm2",
+      "estate": "Makongeni",
+      "house_name": "Hill View Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12io9",
+      "estate": "Marurui",
+      "house_name": "Sunrise Apartments",
+      "type": "One Bedroom",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 14000,
+      "deposit": 14000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67hg4",
+      "estate": "Mashimoni",
+      "house_name": "Valley View Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Owner",
+      "rent": 27000,
+      "deposit": 27000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23fg7",
+      "estate": "Mathare",
+      "house_name": "Green Park Apartments",
+      "type": "Bedsitter",
+      "water_source": "Kanjo",
+      "management": "Agency",
+      "rent": 8000,
+      "deposit": 8000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78jh3",
+      "estate": "Mathare Valley",
+      "house_name": "Sunset View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 19000,
+      "deposit": 19000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "90jk4",
+      "estate": "Matopeni",
+      "house_name": "Valley Homes",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "34ui7",
+      "estate": "Mihang'o",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56nm1",
+      "estate": "Mountain View",
+      "house_name": "Hill View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23gh5",
+      "estate": "Mugumoini",
+      "house_name": "Sunrise Apartments",
+      "type": "One Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 15000,
+      "deposit": 15000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45ui2",
+      "estate": "Muirigo",
+      "house_name": "Valley View Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78jk3",
+      "estate": "Mukuru kwa Njenga",
+      "house_name": "Serenity Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Owner",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12cv4",
+      "estate": "Mukuru slums",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 20000,
+      "deposit": 20000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67yu5",
+      "estate": "Muthangari",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23yu8",
+      "estate": "Mutuini",
+      "house_name": "Sunset View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56fg7",
+      "estate": "Mwiki",
+      "house_name": "Hill View Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 9000,
+      "deposit": 9000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78mn6",
+      "estate": "Nairobi West",
+      "house_name": "Sunrise Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12mn3",
+      "estate": "Ng'ando",
+      "house_name": "Valley Homes",
+      "type": "Single",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 15000,
+      "deposit": 15000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67io5",
+      "estate": "Ngara",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 20000,
+      "deposit": 20000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23yu7",
+      "estate": "Njiru",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45kj3",
+      "estate": "Nyayo Estate",
+      "house_name": "Hill View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78nm4",
+      "estate": "Nyayo Highrise",
+      "house_name": "Sunrise Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12iu9",
+      "estate": "Ofafa",
+      "house_name": "Valley View Apartments",
+      "type": "One Bedroom",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 14000,
+      "deposit": 14000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67ju8",
+      "estate": "Pangani",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 21000,
+      "deposit": 21000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23hy7",
+      "estate": "Parklands",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "90ki1",
+      "estate": "Pumwani",
+      "house_name": "Sunset View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "34bg6",
+      "estate": "Raila",
+      "house_name": "Hill View Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56nh7",
+      "estate": "Riruta Satellite",
+      "house_name": "Sunrise Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23cv8",
+      "estate": "Ruai",
+      "house_name": "Valley View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67io9",
+      "estate": "Ruaraka",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45cv2",
+      "estate": "Runda",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 21000,
+      "deposit": 21000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78io3",
+      "estate": "Sarang'ombe",
+      "house_name": "Sunrise Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12mn4",
+      "estate": "Shauri Moyo",
+      "house_name": "Valley View Apartments",
+      "type": "One Bedroom",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 14000,
+      "deposit": 14000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67kj5",
+      "estate": "Shilanga",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 20000,
+      "deposit": 20000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23cv6",
+      "estate": "Siranga",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "90nm8",
+      "estate": "South B",
+      "house_name": "Sunset View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "34cv5",
+      "estate": "South C",
+      "house_name": "Hill View Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56bh2",
+      "estate": "Soweto East",
+      "house_name": "Sunrise Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23nm7",
+      "estate": "Soweto West",
+      "house_name": "Valley View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67cv4",
+      "estate": "Spring Valley",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45cv9",
+      "estate": "Starehe",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 21000,
+      "deposit": 21000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78bh5",
+      "estate": "Syokimau",
+      "house_name": "Sunrise Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "12cv3",
+      "estate": "Thome",
+      "house_name": "Valley View Apartments",
+      "type": "One Bedroom",
+      "water_source": "Bowser",
+      "management": "Agency",
+      "rent": 14000,
+      "deposit": 14000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67gh8",
+      "estate": "Umoja",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 20000,
+      "deposit": 20000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23cv1",
+      "estate": "Upper Hill",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "90nm6",
+      "estate": "Utawala",
+      "house_name": "Sunset View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "34cv3",
+      "estate": "Uthiru",
+      "house_name": "Hill View Apartments",
+      "type": "Bedsitter",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 10000,
+      "deposit": 10000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "56ki1",
+      "estate": "Waithaka",
+      "house_name": "Sunrise Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Bowser",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "23cv4",
+      "estate": "Westlands",
+      "house_name": "Valley View Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 22000,
+      "deposit": 22000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "67cv2",
+      "estate": "Woodley",
+      "house_name": "Skyline Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "45nm9",
+      "estate": "Zimmerman",
+      "house_name": "Green Park Apartments",
+      "type": "Two Bedroom",
+      "water_source": "Borehole",
+      "management": "Agency",
+      "rent": 20000,
+      "deposit": 20000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    },
+    {
+      "id": "78cv8",
+      "estate": "Ziwani",
+      "house_name": "Sunrise Apartments",
+      "type": "Three Bedroom",
+      "water_source": "Kanjo",
+      "management": "Owner",
+      "rent": 28000,
+      "deposit": 28000,
+      "view_maps": "https://maps.app.goo.gl/aFr13ZwUbw2o1qgK9",
+      "image": "https://i.imgur.com/LSUlWaZ.jpeg",
+      "video": "https://www.youtube.com/watch?v=6YIId6IW-QQ"
+    }
+  ],
+  "estates": [
+    {
+      "id": "1",
+      "name": "Bahati"
+    },
+    {
+      "id": "2",
+      "name": "Buruburu"
+    },
+    {
+      "id": "3",
+      "name": "Dagoretti"
+    },
+    {
+      "id": "4",
+      "name": "Dandora"
+    },
+    {
+      "id": "5",
+      "name": "Doonholm"
+    },
+    {
+      "id": "6",
+      "name": "Eastleigh"
+    },
+    {
+      "id": "7",
+      "name": "Embakasi"
+    },
+    {
+      "id": "8",
+      "name": "Gatwekera"
+    },
+    {
+      "id": "9",
+      "name": "Gigiri"
+    },
+    {
+      "id": "10",
+      "name": "Githurai"
+    },
+    {
+      "id": "11",
+      "name": "Highridge"
+    },
+    {
+      "id": "12",
+      "name": "Hurlingham"
+    },
+    {
+      "id": "13",
+      "name": "Huruma"
+    },
+    {
+      "id": "14",
+      "name": "Imara Daima"
+    },
+    {
+      "id": "15",
+      "name": "Jericho"
+    },
+    {
+      "id": "16",
+      "name": "Kaloleni"
+    },
+    {
+      "id": "17",
+      "name": "Kambi Muru"
+    },
+    {
+      "id": "18",
+      "name": "Kamulu"
+    },
+    {
+      "id": "19",
+      "name": "Kangemi"
+    },
+    {
+      "id": "20",
+      "name": "Karen"
+    },
+    {
+      "id": "21",
+      "name": "Kariobangi"
+    },
+    {
+      "id": "22",
+      "name": "Kasarani"
+    },
+    {
+      "id": "23",
+      "name": "Kawangware"
+    },
+    {
+      "id": "24",
+      "name": "Kayole"
+    },
+    {
+      "id": "25",
+      "name": "Kiambiu"
+    },
+    {
+      "id": "26",
+      "name": "Kibera"
+    },
+    {
+      "id": "27",
+      "name": "Kichinjio"
+    },
+    {
+      "id": "28",
+      "name": "Kileleshwa"
+    },
+    {
+      "id": "29",
+      "name": "Kilimani"
+    },
+    {
+      "id": "30",
+      "name": "Kisumu Ndogo"
+    },
+    {
+      "id": "31",
+      "name": "Kitisuru"
+    },
+    {
+      "id": "32",
+      "name": "Komarock"
+    },
+    {
+      "id": "33",
+      "name": "Korogocho"
+    },
+    {
+      "id": "34",
+      "name": "Kware"
+    },
+    {
+      "id": "35",
+      "name": "Kyuna"
+    },
+    {
+      "id": "36",
+      "name": "Laini Saba"
+    },
+    {
+      "id": "37",
+      "name": "Lang'ata"
+    },
+    {
+      "id": "38",
+      "name": "Lavington"
+    },
+    {
+      "id": "39",
+      "name": "Lindi"
+    },
+    {
+      "id": "40",
+      "name": "Loresho"
+    },
+    {
+      "id": "41",
+      "name": "Lucky Summer"
+    },
+    {
+      "id": "42",
+      "name": "Madaraka"
+    },
+    {
+      "id": "43",
+      "name": "Majengo"
+    },
+    {
+      "id": "44",
+      "name": "Makadara"
+    },
+    {
+      "id": "45",
+      "name": "Makongeni"
+    },
+    {
+      "id": "46",
+      "name": "Marurui"
+    },
+    {
+      "id": "47",
+      "name": "Mashimoni"
+    },
+    {
+      "id": "48",
+      "name": "Mathare"
+    },
+    {
+      "id": "49",
+      "name": "Mathare Valley"
+    },
+    {
+      "id": "50",
+      "name": "Matopeni"
+    },
+    {
+      "id": "51",
+      "name": "Mihang'o"
+    },
+    {
+      "id": "52",
+      "name": "Mountain View"
+    },
+    {
+      "id": "53",
+      "name": "Mugumoini"
+    },
+    {
+      "id": "54",
+      "name": "Muirigo"
+    },
+    {
+      "id": "55",
+      "name": "Mukuru kwa Njenga"
+    },
+    {
+      "id": "56",
+      "name": "Mukuru slums"
+    },
+    {
+      "id": "57",
+      "name": "Muthangari"
+    },
+    {
+      "id": "58",
+      "name": "Mutuini"
+    },
+    {
+      "id": "59",
+      "name": "Mwiki"
+    },
+    {
+      "id": "60",
+      "name": "Nairobi West"
+    },
+    {
+      "id": "61",
+      "name": "Ng'ando"
+    },
+    {
+      "id": "62",
+      "name": "Ngara"
+    },
+    {
+      "id": "63",
+      "name": "Njiru"
+    },
+    {
+      "id": "64",
+      "name": "Nyayo Estate"
+    },
+    {
+      "id": "65",
+      "name": "Nyayo Highrise"
+    },
+    {
+      "id": "66",
+      "name": "Ofafa"
+    },
+    {
+      "id": "67",
+      "name": "Pangani"
+    },
+    {
+      "id": "68",
+      "name": "Parklands"
+    },
+    {
+      "id": "69",
+      "name": "Pipeline"
+    },
+    {
+      "id": "70",
+      "name": "Pumwani"
+    },
+    {
+      "id": "71",
+      "name": "Raila"
+    },
+    {
+      "id": "72",
+      "name": "Riruta Satellite"
+    },
+    {
+      "id": "73",
+      "name": "Roysambu"
+    },
+    {
+      "id": "74",
+      "name": "Ruai"
+    },
+    {
+      "id": "75",
+      "name": "Ruaraka"
+    },
+    {
+      "id": "76",
+      "name": "Runda"
+    },
+    {
+      "id": "77",
+      "name": "Sarang'ombe"
+    },
+    {
+      "id": "78",
+      "name": "Shauri Moyo"
+    },
+    {
+      "id": "79",
+      "name": "Shilanga"
+    },
+    {
+      "id": "80",
+      "name": "Siranga"
+    },
+    {
+      "id": "81",
+      "name": "South B"
+    },
+    {
+      "id": "82",
+      "name": "South C"
+    },
+    {
+      "id": "83",
+      "name": "Soweto East"
+    },
+    {
+      "id": "84",
+      "name": "Soweto West"
+    },
+    {
+      "id": "85",
+      "name": "Spring Valley"
+    },
+    {
+      "id": "86",
+      "name": "Starehe"
+    },
+    {
+      "id": "87",
+      "name": "Syokimau"
+    },
+    {
+      "id": "88",
+      "name": "Thome"
+    },
+    {
+      "id": "89",
+      "name": "Umoja"
+    },
+    {
+      "id": "90",
+      "name": "Upper Hill"
+    },
+    {
+      "id": "91",
+      "name": "Utawala"
+    },
+    {
+      "id": "92",
+      "name": "Uthiru"
+    },
+    {
+      "id": "93",
+      "name": "Waithaka"
+    },
+    {
+      "id": "94",
+      "name": "Westlands"
+    },
+    {
+      "id": "95",
+      "name": "Woodley"
+    },
+    {
+      "id": "96",
+      "name": "Zimmerman"
+    },
+    {
+      "id": "97",
+      "name": "Ziwani"
+    }
+  ]
+}
